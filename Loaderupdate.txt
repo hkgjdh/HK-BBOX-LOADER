@@ -1,1 +1,1 @@
-1.0|Please update your loader.
+2.0|Please update your loader.
