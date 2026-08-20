@@ -2,7 +2,7 @@
   "loaders": [
     {
       "name": "DUNE_CHEATS",
-      "displayName": "@DuneCheats",
+      "displayName": "Tg:- @DuneCheats",
       "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
       "pinnedKey": "",
       "ui1": true,
