@@ -221,7 +221,7 @@
       "expireSize": 13
     },
     {
-      "name": "BAAPLOADER",
+      "name": "BAAPLOADERs",
       "displayName": "BAAP LOADER",
       "apiUrl": "https://api.xvipserver.site/vip/connect",
       "pinnedKey": "",
