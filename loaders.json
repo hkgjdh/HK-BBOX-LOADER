@@ -2,7 +2,7 @@
   "loaders": [
     {
       "name": "DUNE_CHEATS",
-      "displayName": "BGMI PREMIUM",
+      "displayName": "DUNE LOADER",
       "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
       "pinnedKey": "",
       "ui1": false,
@@ -11,8 +11,8 @@
       "ui4": false,
       "ui5": false,
       "ui6": false,
-      "ui7": true,
-      "ui8": false,
+      "ui7": false,
+      "ui8": true,
       "ui9": false,
       "ui10": false,
       "textColor": [1.0, 1.0, 0.0],
