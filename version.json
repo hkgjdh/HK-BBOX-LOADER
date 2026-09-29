@@ -1,5 +1,5 @@
 {
-    "version": "3.0",
+    "version": "4.0",
     "title": "Loader Update",
     "message": "New version available! Please update to continue.",
     "blocked_loaders": ["NARUTO", "CROZN"],
