@@ -1,1 +1,1 @@
-4.0|Online|4.6.0|64 BIT|Without Skin Server|Skin Server
+4.1|Online|4.6.0|64 BIT|Auto Server|Menu Server
