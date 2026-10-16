@@ -169,7 +169,7 @@
       "expireSize": 13
     },
     {
-      "name": "JALBAADMIN1",
+      "name": "JALBAADMIN",
       "displayName": "JALBAADMIN",
       "apiUrl": "https://api.xvipserver.site/vip/connect",
       "pinnedKey": "",
